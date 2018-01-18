@@ -1,0 +1,100 @@
+filters_NNS pop_NN  recordings_NNS crisp_JJ  lowest_JJS prices_NNS filters_NNS amazon_NN  same_JJ  pricing_NN  
+product_NN  affordable.I_NN  double_JJ  better_JJR expected.As_NNS bonus_NN  screens_NNS small_JJ  hint_NN  smell_NN  old_JJ  grape_NN  candy_NN  reminiscent_JJ  sake_NN  pop_NN  filter_NN  next_JJ  nose_NN  DIf_NN  pop_NN  filter_NN  expensive_JJ  ones_NNS aroma_NN  mine_JJ  did!Buy_NN  product_NN  :]_NN  
+primary_JJ  job_NN  device_NN  breath_NN  sound_NN  voice_NN  noticeable_JJ  reduction_NN  volume_NN  high_JJ  frequencies_NNS double_JJ  cloth_NN  filter_NN  voice_NN  coloration_NN  metal_NN  clamp_NN  mike_NN  secure_JJ  enough_JJ  goose_NN  neck_NN  little_JJ  
+windscreen_NN  MXL_NN  mic_JJ  thing_NN  gooseneck_NN  able_JJ  screen_NN  position_NN  careful_JJ  positioning_NN  clamp_NN  
+pop_NN  filter_NN  great_JJ  studio_NN  filter_NN  vocals_NNS 
+good_JJ  Love_NN  heavy_JJ  cord_NN  gold_NN  connectors_NNS Bass_NNP  great_JJ  last_JJ  night_NN  coil_NN  instructions_NNS harm_NN  great_JJ  
+monster_NN  cables_NNS years_NNS good_JJ  reason_NN  lifetime_NN  warranty_NN  price_NN  Simple_JJ  fact_NN  cables_NNS break_NN  cost_NN  
+cable_NN  output_NN  pedal_NN  chain_NN  input_NN  Fender_NNP  Amp_NNP  Monster_NN  Cable_NNP  hook_NN  pedal_NN  board_NN  guitar_NN  high_JJ  end_NN  Planet_NN  cable_NN  input_NN  jacks_NNS new_JJ  Monster_NN  cable_NN  Fender_NNP  Strat_NNP  jack_NN  little_JJ  disappointed_JJ  output_NN  pedal_NN  board_NN  money_NN  Planet_NN  Cable_NNP  eighties_NNS Planet_NN  Waves_NNS Waves_NNP  lot_NN  money_NN  day_NN  guitar_NN  cable_NN  years_NNS Planet_NN  wins_NNS 
+Epiphone_NNP  Sheraton_NNP  II_NNP  Monster_NN  cables_NNS several_JJ  problems_NNS years_NNS Got_NNP  one_NN  degree_NN  plug_NN  
+best_JJS cables_NNS lifetime_NN  warranty_NN  doesnt_JJ  hurt_NN  isnt_NN  top_NN  line_NN  series_NN  great_JJ  bass_NN  guitar_NN  rig_NN  time_NN  wrong_JJ  Monster_NN  Cables_NNS 
+wide_JJ  array_NN  cables_NNS high_JJ  end_NN  pair_NN  ofMonster_NNP  Rock_NNP  Instrument_NNP  Cable_NNP  Angled_JJ  1/4-Inch_JJ  plugto_NN  use_NN  keyboards_NNS time_NN  cables_NNS bass_NN  guitar_NN  few_JJ  pennies_NNS glad_JJ  cable_NN  model_NN  expensive_JJ  models_NNS looks_NNS difference_NN  sound_NN  guitars_NNS keyboards_NNS model_NN  instrument_NN  difference.What_NN  expensive_JJ  model_NN  sure_JJ  higher_JJR model_NN  sturdy_JJ  molded_JJ  stress_NN  relief_NN  model_NN  reliable_JJ  pricier_JJR sibling.Bottom_NN  line_NN  cables_NNS own_JJ  instrument_NN  amp_NN  possible_JJ  purchase_NN  decision_NN  higher_JJR price_NN  equal_JJ  higher_JJR value_NN  same_JJ  manufacturer_NN  
+good_JJ  need_NN  keyboard_NN  organ_NN  
+large_JJ  pedal_NN  piano_NN  little_JJ  awkward_JJ  
+Yamaha_NNP  ypt-230_NN  great_JJ  anyone_NN  
+home_NN  studio_NN  midi_JJ  keyboard_NN  
+keyboard_NN  aware_JJ  other_JJ  options_NNS keyboard_NN  pedals_NNS pedals_NNS acoustic_JJ  piano_NN  same_JJ  feel_NN  close.In_NN  opinion_NN  pedal_NN  M-Audio_NNP  SP-2_NNP  Sustain_NNP  Pedal_NNP  Piano_NNP  Style_NNP  Action_NNP  other_JJ  similar_JJ  pedal_NN  better_JJR choice_NN  price_NN  difference_NN  few_JJ  dollars_NNS feel_NN  action_NN  better_JJR only_JJ  thing_NN  Yamaha_NNP  FC-5_NNP  Sustain_NNP  Pedal_NNP  good_JJ  space_NN  drawer_NN  electric_JJ  guitar_NN  pedals_NNS 
+Fender_NN  cable_NN  perfect_JJ  length_NN  bit_NN  quality_NN  great_JJ  only_JJ  gripe_NN  cable_NN  metal_NN  sleeve_NN  unscrewed_JJ  way_NN  often.Sound_JJ  quality_NN  color_NN  cool_JJ  cable_NN  
+looks_NNS nice_JJ  cord_NN  Sam_NNP  Ash_NNP  cord_NN  mailer_NN  box_NN  Roc_NN  n_NN  Soc_NN  shipping_NN  team_NN  great_JJ  work_NN  complaints_NNS Sam_NNP  Ash_NNP  thanks_NNS Amazon_NNP  
+cables_NNS more_JJR months_NNS years_NNS indestructable_JJ  guitar_NN  cables_NNS electrician_NN  friend_NN  habit_NN  no-name_JJ  cables_NNS display_NN  register_NN  Guitar_NNP  Center_NNP  more_JJR impulse_NN  buy_NN  something_NN  third_JJ  fourth_JJ  Guitar_NNP  Center_NNP  cable_NN  light_JJ  use_NN  cables_NNS cheaper_JJR hard_JJ  gear_NN  cables_NNS cheaper_JJR ones_NNS mid-cable_JJ  few_JJ  extra_JJ  dollars_NNS cable_NN  durable_JJ  cable_NN  cheaper_JJR cables_NNS kind_NN  limited_JJ  life_NN  warantee_NN  product_NN  stars_NNS foot_NN  guitar_NN  cable_NN  shipped!Incidentally_NNP  cables_NNS instrument_NN  amp_NN  input_NN  amplifier_NN  speaker_NN  cab_NN  unshielded_JJ  cables_NNS purpose.Edit_NN  More_JJR months_NNS cable_NN  issues_NNS price_NN  things_NNS cable_NN  values_NNS Hosa_NNP  Monster_NN  Planet_NN  Waves_NNS 
+cords_NNS great_JJ  word_NN  California_NNP  description_NN  sure_JJ  Beach_NNP  Boys_NNPS 
+cool_JJ  cheap_JJ  cable_NN  bent_JJ  connectors_NNS fault_NN  thing_NN  cable_NN  connectors_NNS able_JJ  retro_NN  look_NN  connectors_NNS black_JJ  rubber_NN  other_JJ  cable_NN  cool_JJ  well.I_NNP  shorter_JJR red_JJ  cable_NN  guitars_NNS others_NNS black_JJ  cables_NNS easier_JJR different_JJ  amps_NNS someone_NN  accident_NN  green_JJ  cable_NN  good_JJ  
+Fender_NN  Feet_NNP  California_NNP  Clear_NNP  Instrument_NNP  Cable_NNP  Lake_NNP  Placid_NNP  Blue_NNP  good_JJ  extra_JJ  cord_NN  good_JJ  price_NN  
+good_JJ  cable_NN  great_JJ  Candy_NN  Apple_NNP  Red_NNP  Tele_NNP  reason_NN  stars_NNS flat_JJ  floor_NN  
+cable_NN  rockband_NN  keyboard_NN  controller_NN  M-audio_NN  profire_JJ  midi_NNS Works_NNP  great_JJ  Firm_NN  fit_NN  ends_NNS reputable_JJ  branded_JJ  cable_NN  bit_NN  thin_JJ  side_NN  issue_NN  due_JJ  anything_NN  wrong_JJ  time_NN  purchase_NN  prime_JJ  eligibility_NN  
+MIDI_NNP  cables_NNS ART_NN  X-15_NN  foot_NN  controller_NN  Hosa_NNP  ones_NNS dollars_NNS happy_JJ  price_NN  high_JJ  quality_NN  plastic_NN  metal_NN  connectors_NNS work_NN  feet_NNS connection_NN  sound_NN  modules_NNS perfect_JJ  
+wrong_JJ  Great_JJ  quality_NN  budget_NN  price_NN  Hosa_NN  go_NN  hook_NN  things_NNS 
+ends_NNS midi_JJ  cable_NN  look_NN  quality_NN  Connection_NN  secure_JJ  worries_NNS uneven_JJ  connections_NNS hitch_NN  
+task_NN  sure_JJ  pin_NN  config_NN  correct_JJ  good_JJ  product_NN  fine_JJ  
+Hosa_NNP  XLR_NNP  cables_NNS affordable_JJ  made.I_NN  large_JJ  mixer_NN  rack_NN  cables_NNS everywhere.I_NN  shorter_JJR cables_NNS Hosa_NNP  cables_NNS 5ft_JJ  measurement_NN  perfectly.You_NNP  
+board_NN  amp_NN  mobile_JJ  church_NN  beating_NN  strong_JJ  
+cord_NN  plugs_NNS inexpensive_JJ  good_JJ  value_NN  professional-level_JJ  equipment_NN  cord_NN  purposes_NNS purchase_NN  
+week_NN  gigs_NNS Solid_JJ  problems_NNS solder_NN  joints_NNS good_JJ  quality_NN  cable_NN  good_JJ  price_NN  
+products_NNS good_JJ  bang_NN  buck_NN  specifications_NNS wire_NN  AWG_NN  good_JJ  
+voice_NN  touch_NN  small_JJ  cord_NN  mic_JJ  voice_NN  touch_NN  perfect_JJ  foot_NN  cord_NN  inches_NNS mic_JJ  stand_NN  voice_NN  touch_NN  other_JJ  stand_NN  device_NN  vocals_NNS 
+long_JJ  mike_JJ  cords_NNS solo_NN  show_NN  nice_JJ  cords_NNS home_NN  portastudio_NN  studio_NN  spaghetti_NNS trip_NN  place_NN  Digitech_NNP  Live_NNP  Harmony_NNP  processor_NN  XLR_NN  mike_NN  cords_NNS operational_JJ  Good_JJ  price_NN  Hard_JJ  mike_JJ  cords_NNS ones_NNS obtainable_JJ  
+cable_NN  while_NN  DI_NNP  box_NN  vocal_JJ  mics_NNS 
+greatest_JJS cheap_JJ  many_JJ  broadcast_NN  studio.Amazon_NN  first_JJ  place_NN  cables_NNS audio_NN  video_NN  computers_NNS concert_NN  lighting.Good_NN  music_NN  
+fine_JJ  cable_NN  decent_JJ  price_NN  point_NN  nothing_NN  exceptional_JJ  mind_NN  job_NN  
+lot_NN  cables_NNS HOSA_NNP  best_JJS audio_NN  cables_NNS price_NN  range_NN  market_NN  
+cord_NN  cheap_JJ  better_JJR son_NN  experience_NN  musician_NN  Hosa_NNP  brand_NN  proper_JJ  replacement.I_NN  small_JJ  home_NN  setup_NN  Behringer_NNP  C-1_NNP  Condenser_NNP  Microphone_NNP  Behringer_NNP  Xenyx_NNP  Mixer_NNP  ends_NNS reliable_JJ  connection_NN  board_NN  mic_JJ  sound_JJ  quality_NN  excellent.An_JJ  excellent_JJ  value_NN  money_NN  
+solid_JJ  cables_NNS excellent_JJ  support_NN  ends_NNS lifetime_NN  usage_NN  problem_NN  tube_NN  preamp_NN  
+quality_NN  cable_NN  good_JJ  
+issues_NNS cable_NN  cheap_JJ  light_JJ  weight_NN  months_NNS packing_NN  practice_NN  spaces.I_NN  review_NN  
+inexpensive_JJ  patch_NN  cable_NN  electric_JJ  guitar.I_NN  few_JJ  months_NNS 
+cheap_JJ  replacement_NN  cable_NN  short_JJ  cable_NN  decent_JJ  sound_NN  decent_JJ  quality_NN  good_JJ  price_NN  
+nice_JJ  cable_NN  price_NN  bent_JJ  end_NN  fine_NN  phono_NN  connector_NN  wires_NNS white_JJ  plastic_NN  hum_NN  crackles_NNS sure_JJ  good_JJ  buy_NN  
+good_JJ  texture_NN  rubber_NN  stiff_JJ  time_NN  soldering_JJ  fine_NN  
+sturdy_JJ  noise_NN  issues_NNS much_JJ  satified_JJ  house_NN  lot_NN  reasonable_JJ  care_NN  while_NN  
+professional_JJ  many_JJ  many_JJ  years_NNS best_JJS cord_NN  sure_JJ  Eric_NNP  Clapton_NNP  something_NN  
+Hosa_NNP  Cable_NNP  good_JJ  quality_NN  connectors_NNS nice_JJ  long_JJ  length_NN  son_NN  collection_NN  amps_NNS effects_NNS pedals_NNS additional_JJ  cables_NNS everything_NN  cable_NN  flexibility_NN  sturdy_JJ  around.The_NNP  cable_NN  good_JJ  value_NN  decent_JJ  quality_NN  cable.Highly_NN  Recommended!CFH_NN  
+cable_NN  thin_JJ  thickness_NN  guitar_NN  cable_NN  sure_JJ  long-term_JJ  durability_NN  signal_NN  loss/interference_NN  foresight_NN  couple_NN  extra_JJ  bucks_NNS thicker_JJR cable_NN  inexpensive.EDIT_NNP  months_NNS dead_JJ  Wire_NN  right_JJ  angle_NN  jack_NN  
+daughter_NN  new_JJ  guitar_NN  issues_NNS first_JJ  couple_NN  weeks_NNS 
+problems_NNS equipment_NN  other_JJ  cords_NNS problem_NN  Hosa_NNP  other_JJ  products_NNS good_JJ  value_NN  experience_NN  
+hard_JJ  cables_NNS guitar_NN  dont_JJ  move_NN  hour_NN  day_NN  fine_JJ  buzz_NN  other_JJ  noises_NNS several_JJ  
+Hosa_NNP  cables_NNS excellent_JJ  value_NN  expensive_JJ  cables_NNS rugged_JJ  price_NN  happy_JJ  Hosa_NNP  
+good_JJ  cable_NN  Excellent_JJ  plugs_NNS lugs_NNS solder_NN  joints_NNS heat_NN  material_NN  everything_NN  place_NN  years_NNS Grade_NNP  A_NNP  cable_NN  affordable_JJ  price_NN  more_JJR ft._NN  cable_NN  couple_JJ  dollars_NNS ft._NN  
+crappy_JJ  cable_NN  job_NN  product_NN  extra_JJ  bucks_NNS better_JJR quality_NN  
+cord_NN  church_NN  pedalboard_NN  amp_NN  soundproof_NN  box_NN  cord_NN  reliable_JJ  clean_JJ  HOSA_NN  products_NNS past_NN  confidence_NN  Excellent_JJ  cord_NN  review_NN  usefull_JJ  
+second_JJ  Hosa_NNP  guitar_NN  cable_NN  other_JJ  shorter_JJR first_JJ  Hosa_NNP  cable_NN  high_JJ  quality_NN  item_NN  more_JJR cables_NNS brand_NN  
+practice_NN  guitar_NN  instrument_NN  cable_NN  best_JJS purpose_NN  
+cables_NNS last_JJ  few_JJ  months_NNS problems_NNS Real_JJ  metal_NN  ends_NNS high_JJ  quality_NN  silicone_NN  jackets_NNS strain_NN  reliefs_NNS connectors_NNS 
+opinion_NN  extra_JJ  guitar_NN  cables_NNS experience_NN  notice_NN  feeling_NN  long_JJ  time_NN  sturdy_JJ  good.I_NN  product_NN  
+guitar_NN  cables_NNS great_JJ  problems_NNS several_JJ  different_JJ  lengths_NNS sound_JJ  perfect_JJ  
+product_NN  decent_JJ  price_NN  complaints_NNS first_JJ  experience_NN  brand_NN  
+quality_NN  guitar_NN  cord.Very_NN  low_JJ  noise_NN  repairable_JJ  effective_JJ  strain_NN  releaf_NN  thick_JJ  rubber_NN  cover_NN  great_JJ  buy_NN  bucks_NNS quality_NN  cord.Of_NN  course_NN  durable_JJ  durable.If_NN  mind_NN  anything_NN  review.For_NNP  Joe_NNP  
+good_JJ  solid_JJ  cable_NN  problems_NNS stage_NN  longer_JJR cable_NN  practice_NN  extra_JJ  length_NN  everything_NN  
+guitar_NN  cable_NN  nice_JJ  high_JJ  quality_NN  white_JJ  ends_NNS Fantastic_JJ  deal_NN  cable_NN  
+product_NN  good_JJ  price_NN  multiple_JJ  times_NNS guitar_NN  speaker_NN  Great_JJ  friends_NNS jam_NN  
+item_NN  terminal_JJ  ends_NNS spring_NN  durable_JJ  road_NN  cables_NNS home_NN  light_JJ  road_NN  use_NN  
+amp_NN  plug_NN  great_JJ  price_NN  ft_NN  perfect_JJ  size_NN  jammin_NN  home_NN  quality_NN  look_NN  price_NN  
+Cable_NNP  GTR210_NNP  Guitar_NNP  Instrument_NNP  Cable_NNP  High_JJ  quality_NN  Instrument_NNP  Cable_NNP  low_JJ  cost_NN  bank_NN  satisfied_JJ  purchase_NN  
+unbalanced_JJ  guitar_NN  cable_NN  noisy_JJ  florescent_JJ  lights_NNS different_JJ  cables_NNS better_JJR expense_NN  things_NNS 
+basic_JJ  black_JJ  electric_JJ  guitar_NN  cable_NN  great_JJ  connections_NNS ends_NNS solid_JJ  sound_NN  amp_NN  great_JJ  Nice_JJ  rubbery_JJ  feet_NNS problems_NNS cable_NN  review_NN  problems_NNS cable_NN  
+cable_NN  quality_NN  place_NN  products_NNS good_JJ  sound_JJ  good_JJ  reliable_JJ  long_JJ  lasting_JJ  products_NNS good_JJ  sound_JJ  break_NN  short_JJ  useful_JJ  life_NN  span_NN  guitar_NN  cords_NNS nice_JJ  good_JJ  gooey_JJ  soft_JJ  rubber_NN  jacket_NN  Mogami_NNP  good_JJ  rubber_NN  jacket_NN  diameter_NN  eye_NN  short_JJ  heat_NN  overwrap_NN  strength_NN  wire_NN  plug.I_NNP  cables_NNS internet_NN  concert_NN  lots_NNS pedals_NNS signal_NN  cables_NNS good_JJ  condition_NN  since.We_NN  dozen_NN  tube_NN  amps_NNS particular_JJ  sound_JJ  degradation_NN  cables_NNS disappointed_JJ  anyone.I_NN  more_JJR 
+cable_NN  frills_NNS easy_JJ  due_JJ  design_NN  little_JJ  
+cheaper_JJR cable_NN  best_JJS cable_NN  search_NN  amazon_NN  nothing_NN  surprise_NN  excellent_JJ  cable_NN  good_JJ  quality_NN  strong_JJ  thick_JJ  jacket_NN  confidence_NN  sound_NN  identical_JJ  Monster_NN  cables_NNS quarter_NN  price_NN  hmmmm_NN  guess_NN  I_NN  snobs_NNS many_JJ  years_NNS again.This_NN  money_NN  kiss_NN  cables_NNS goodbye_NN  
+end_NN  dab_NN  crazy_JJ  glue_NN  threads_NNS end_NN  repair_NN  
+price_NN  fantastic.They_NN  light_JJ  quality_NN  key_JJ  stress_NN  points_NNS cable_NN  connector_NN  it.Set_NNP  guitar_NN  accident_NN  knows.But_NNP  bucks_NNS job_NN  beginner_NN  thing_NN  waters.Otherwise_NN  few_JJ  more_JJR bucks_NNS something_NN  higher_JJR chances_NNS 
+good_JJ  stuff_NN  exception_NN  years_NNS single_JJ  Hosa_NNP  cable_NN  
+complaint_NN  size_NN  fault_NN  least_JJS foot_NN  stage_NN  
+day_NN  great_JJ  issues_NNS job_NN  
+price_NN  faults_NNS problem_NN  
+cable_NN  notion_NN  quality_NN  outweighs_NNS price_NN  cable_NN  cable_NN  cable_NN  quality_NN  cables_NNS lighter_JJR cable_NN  difference_NN  quality_NN  sound_NN  amp_NN  Ibanez_NNP  ART_NN  series_NN  guitar_NN  Ibanez_NNP  watt_NN  amp_NN  home_NN  nothing_NN  cable_NN  significant_JJ  difference_NN  quality_NN  volume_NN  guitar_NN  teacher_NN  quality_NN  good_JJ  ends_NNS heavy_JJ  duty_NN  little_JJ  bit_NN  hum_NN  due_JJ  proximity_NN  everything_NN  point_NN  inconsequential_JJ  expensive_JJ  cables_NNS great.Hosa_NN  GTR210_NN  Guitar_NNP  Cable_NNP  Ft_NN  
+long_JJ  cable_NN  live_JJ  band_NN  glad_JJ  HOSA_NN  quality_NN  reliable_JJ  noise_NN  
+Good_JJ  cables_NNS good_JJ  price_NN  !!_NN  sure_JJ  heavy_JJ  use_NN  home_NN  great_JJ  
+sturdy_JJ  high_JJ  quality_NN  little_JJ  feedback_NN  friends_NNS 
+top_JJ  line_NN  expensive_JJ  professional_JJ  chords_NNS medium_NN  venue_NN  
+many_JJ  lengths_NNS Hosa_NNP  cables_NNS problem_NN  them.I_NN  active_JJ  musician_NN  riggers_NNS stage_NN  thistype_NN  usage.In_NNP  years_NNS stage_NN  thatyou_NN  extra_JJ  cables_NNS strings_NNS expensive_JJ  cables_NNS 
+weeks_NNS strong_JJ  flexible_JJ  kinks_NNS habits_NNS proper_JJ  way.I_NN  better_JJR cables_NNS price_NN  point_NN  few_JJ  worse_JJR good_JJ  sweet_JJ  spot_NN  opinion_NN  
+pro-cheapo_NN  thing_NN  noisy_JJ  cables_NNS cheap_JJ  gummy-like_JJ  few_JJ  bucks_NNS something_NN  
+great_JJ  watt_NN  Amp_NN  monster_NN  cable_NN  length_NN  plenty_NN  Room_NN  Guitar_NN  amp_NN  GOOD_JJ  PRODUCT_NN  
+cable_NN  good_JJ  expensive_JJ  brand_NN  Thick_NNP  bit_NN  stiff_JJ  complaints_NNS 
+lots_NNS hosa_NN  cables_NNS cheap_JJ  quality_NN  bad_JJ  cable_NN  lot_NN  guys_NNS 
+decent_JJ  cable_NN  job_NN  much_JJ  structural_JJ  integrity_NN  mating_NN  part_NN  connector_NN  switch_NN  loose_JJ  connector_NN  microphone_NN  switch_NN  cable_NN  critical_JJ  applications_NNS home_NN  hobby_NN  use_NN  
+cable_NN  great_JJ  computer_NN  microphone_NN  console_NN  mixer_NN  great_JJ  
+hook_NN  Beta_NN  Panasonic_NNP  G2_NN  DSLR_NN  Kodak_NNP  Zi8_NN  interviews_NNS Works_NNP  way_NN  degree_NN  TRS_NN  nice_JJ  touch_NN  Good_JJ  price_NN  
+cord_NN  adapter_NN  cord_NN  good_JJ  construction_NN  sound_NN  DSLR_NN  mic_JJ  superb_JJ  
+hook_NN  XLR_NN  microphone_NN  digital_JJ  recorder_NN  PC.It_NN  fine_NN  handy_JJ  type_NN  recorders.But_NN  PC_NN  Way_NN  much_JJ  noise_NN  
+Canon_NNP  Vixia_NNP  HF_NN  G10_NN  Video_NNP  Camera_NNP  Shotgun_NNP  Mic_NNP  wire_NN  perfect_JJ  fit_NN  mic_JJ  Mini_NNP  Advanced_NNP  Shoe_NNP  microphone_NN  plug_NN  Video_NNP  Camera_NNP  wire_NN  thing_NN  foot_NN  actual_JJ  wire_NN  long_JJ  thing_NN  cheap_JJ  worth_JJ  hassle_NN  star_NN  Nikon_NNP  D3200_NN  Shoe_NN  Shotgun_NNP  Mike_NNP  ok_NN  tight_JJ  fit_NN  wire_NN  anyone_NN  short_JJ  cable_NN  adapter_NN  worst_JJS case_NN  scenario_NN  loop_NN  angry_JJ  fit.Also_NN  sure_JJ  wire_NN  stars_NNS hiss_NN  unsure_JJ  way_NN  wires_NNS max_NN  DSLR_NN  shotgun_NN  mic_JJ  
+XLR_NN  pin_NN  adaptor_NN  mini_NNS real_JJ  XLR_NN  mic_JJ  computer_NN  job_NN  
